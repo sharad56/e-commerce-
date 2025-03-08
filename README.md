@@ -169,12 +169,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📱 Screenshots
 
+![e website1](https://github.com/user-attachments/assets/f3ff99de-a341-4df4-8a5c-21a65dd9d8cf)
 
-![e website1](https://github.com/user-attachments/assets/15f11167-4a5b-4c49-a65b-db62963199c5)
+![e website2](https://github.com/user-attachments/assets/838e68b3-0901-4475-8aeb-158c489ab641)
 
-![e website2](https://github.com/user-attachments/assets/17a13ca5-65ad-41d8-a90c-194039865056)
+![e website3](https://github.com/user-attachments/assets/4c563e98-8cd6-4cb4-b083-31e9ba6f5887)
 
-![e website3](https://github.com/user-attachments/assets/3f8a888a-e99d-48ca-93d4-6416775b08ad)
+
+
 
 
 
